@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+e66611d1bf2e7f28f3dd8bde13c43be83489228b refs/heads/EF_Buttons
+5eae6bab16529bba69f1b0142b27bdb94ba40b9e refs/heads/EF_JS_Buttons
+26ee2bdc8a09bed04081df4cf88a0ff558370fb0 refs/heads/EF_combine_logic
+1f3b32e64384ad4829bcf4b3dd26747399ba84f3 refs/heads/EF_drops
+d627edbb582f9942890527039c47451c28b45c93 refs/heads/OP_HTML
+1212fad457df8f0b1c9422105b426048c0560bb2 refs/heads/OP_combined
+94925e38e151781bfd840837f5ba1390c652f9eb refs/heads/OP_master_mirror
+880cb406f13eb8c890c9abe16de93c3f9823f176 refs/heads/master
